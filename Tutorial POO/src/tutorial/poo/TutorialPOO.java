@@ -9,10 +9,13 @@ public class TutorialPOO {
         Documento documento2 = new Documento(432,"Cocchi", "fdfdsa");
         Documento documento3 = new Documento(54654, "Sebastian", "jvfdsfds");
         
+        documento1.setDireccion("Av Cabildo");
+        documento1.setNombre("Santi");
+        documento1.setNumero(12345678);
         
-        System.out.println("El documento 1 tiene " + documento1.numero);
-        System.out.println("El documento 1 tiene " + documento1.nombre);
-        System.out.println("El documento 1 tiene " + documento1.direccion);
+        System.out.println("El documento 1 tiene " + documento1.getNombre());
+        System.out.println("El documento 1 tiene " + documento1.getNumero());
+        System.out.println("El documento 1 tiene " + documento1.getDireccion());
         
         
     }
