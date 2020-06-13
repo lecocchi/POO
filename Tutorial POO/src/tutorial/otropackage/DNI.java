@@ -28,5 +28,29 @@ public class DNI {
     public void setNumero(int numero) {
         this.numero = numero;
     }
+    
+    public String getNombre(){
+        return this.nombre;
+    }
+    
+    public void setNombre(String nombre){
+        this.nombre = nombre;
+    }
+    
+    public String getApellido(){
+        return this.apellildo;
+    }
 
+    public void setApellido(String apellido){
+        this.apellildo = apellido;
+    }
+    
+    public String getDireccion(){
+        return this.direccion;
+    }
+    
+    public void setDireccion(String direccion){
+        this.direccion = direccion;
+    }
+    
 }
