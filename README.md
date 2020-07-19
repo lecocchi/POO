@@ -1,1 +1,22 @@
 # POO
+Sistema de pago:
+- tipo de pago(efectivo, tarjeta, mercado pago)
+- proveedor
+- cliente
+- factura
+- productos
+- quien me atendio
+- precio
+- numero de caja
+- instructivo
+- codigo QR
+- direccion del local
+- rubro
+- tiempo de acreditacion
+- tipo de tarjeta de credito (bancalizada o no)
+- delivery
+- sector de ayuda
+- puntos que suman
+- descuentos
+- ofertas
+- compras por whatsapp
