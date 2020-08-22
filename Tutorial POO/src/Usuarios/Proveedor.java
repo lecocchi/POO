@@ -1,8 +1,7 @@
 package Usuarios;
 
 
-public class Proveedor extends Persona {
+public class Proveedor  {
 
 
-    
 }
